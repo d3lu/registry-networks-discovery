@@ -4,4 +4,3 @@ A useful python script manipulating registry profiles in Windows, in order to fi
 ## Usage
 Simply run the script (contains some imported libraries).
 
-![image](https://github.com/d3lu/registry-networks-discovery/blob/master/nd.png?raw=true "Usage of script")
